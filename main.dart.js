@@ -77858,7 +77858,7 @@ yc(){var s=0,r=A.Z(t.H),q=this,p,o,n,m,l,k,j
 var $async$yc=A.a_(function(a,b){if(a===1)return A.W(b,r)
 while(true)switch(s){case 0:q.ai(new A.aeL(q))
 p=t.N
-o=A.ay(["accept","application/json","Content-Type","application/json","Bypass-Tunnel-Reminder","1"],p,p)
+o=A.ay(["accept","application/json","Content-Type","application/json","Access-Control-Allow-Origin","*","Bypass-Tunnel-Reminder","1"],p,p)
 n=q.e.a.a
 m=q.f.a.a
 l=q.w
